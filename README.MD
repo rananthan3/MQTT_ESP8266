@@ -1,4 +1,4 @@
-#MQTT Temperature Sensor using 8266
+# MQTT Temperature Sensor using 8266
 
 1) https://www.youtube.com/watch?v=7tGPpG_9hik
 
